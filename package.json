@@ -1,0 +1,23 @@
+{
+  "name": "send-email-example",
+  "version": "1.0.0",
+  "description": "Announcementt email using Node.js, Express.js and Nodemailer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "nodemailer",
+    "email",
+    "send",
+    "form"
+  ],
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemailer": "^4.6.8",
+    "nodemon": "^2.0.3"
+  }
+}
